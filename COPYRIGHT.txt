@@ -1,0 +1,6 @@
+Copyright (c) 2026 Aurelio Avila. All rights reserved.
+
+Frame Witness application code, original artwork and branding are proprietary.
+No open-source licence to the application is granted by this repository.
+Third-party components remain the property of their respective authors and
+are governed by their own licences. Those rights are not restricted here.
