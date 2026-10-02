@@ -62,7 +62,7 @@ product screenshots, customer evidence or measured recovery results.*
 | [Features and illustrative demo](https://framewitness.pages.dev/#product) | Visual review, source context and local examination. |
 | [Workflow and recovery limits](https://framewitness.pages.dev/#workflow) | Source preservation, search, examination and export. |
 | [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Planned offers; purchases are not open. |
-| [Account and licences](https://framewitness.pages.dev/account.html) | Email-code sign-in and the licence portal. |
+| [Account and licences](https://framewitness.pages.dev/account.html) | Email/password sign-in, credential management, orders, licences and private product support. |
 | [Create an account](https://framewitness.pages.dev/#register) | Register or sign in on the homepage; no payment is collected. |
 | [Frequently asked questions](https://framewitness.pages.dev/#questions) | Deleted files, earlier formats, Tor clues, dates and device scope. |
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
@@ -75,8 +75,8 @@ product screenshots, customer evidence or measured recovery results.*
 
 **Public downloads and purchases are not open.** This repository is the
 designated distribution channel for future publisher-signed installers and
-their SHA-256 checksums. Email-code registration and account access are available
-on the homepage. Evaluation enrollment and purchases remain closed. Planned
+their SHA-256 checksums. Free email/password registration and account access are available
+on the homepage and account page, without a plan, invitation or payment. Email confirmation remains required. Profile settings, password recovery, owned orders and support requests are included. Evaluation enrollment and purchases remain closed. Planned
 launch prices are €472 for Professional, €1,160.70 for Lab and €1,802.30 for
 Organization (20%, 27% and 33% below their planned standard prices). These are
 not active checkouts or prices from previous sales. See the website for scope,
