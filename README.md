@@ -64,6 +64,9 @@ product screenshots, customer evidence or measured recovery results.*
 | [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Planned offers; purchases are not open. |
 | [Account and licences](https://framewitness.pages.dev/account.html) | Email-code sign-in and the licence portal. |
 | [Frequently asked questions](https://framewitness.pages.dev/#questions) | Deleted files, earlier formats, Tor clues, dates and device scope. |
+| [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
+| [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
+| [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
 | [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Future signed installers and checksums; no release is published yet. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Current product and commercial status. |
 
