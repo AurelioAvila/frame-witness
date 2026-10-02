@@ -68,14 +68,22 @@ product screenshots, customer evidence or measured recovery results.*
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Future signed installers and checksums; no release is published yet. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows preview and SHA-256 checksum. Recovery requires a valid licence; checkout is not open yet. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Current product and commercial status. |
 
 ## Release status
 
-**Public downloads and purchases are not open.** This repository is the
-designated distribution channel for future publisher-signed installers and
-their SHA-256 checksums. Free email/password registration and account access are available
+**Version 0.31.0 is available as a signed Windows preview. Paid checkout is not open.**
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.31.0/FrameWitness-Setup-0.31.0.exe)
+(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.31.0).
+The application requires a valid licence for recovery features. Registration alone does not issue one.
+
+SHA-256: `9163e0146e468a5203be99166127733cc4b6272bdc7fd7328e922b7be750e807`.
+Publisher: Aurelio Avila. Trusted timestamp: Certum.
+
+Local synthetic recovery, preview, playback, isolation and missing-licence checks passed.
+Clean Windows and real paid-transaction tests were waived by the owner, **not passed**.
+ Free email/password registration and account access are available
 on the homepage and account page, without a plan, invitation or payment. Registration requires first and last name and activation through the link sent to the supplied email. Profile settings, password recovery, owned orders and support requests are included. Evaluation enrollment and purchases remain closed. Planned
 launch prices are €472 for Professional, €1,160.70 for Lab and €1,802.30 for
 Organization (20%, 27% and 33% below their planned standard prices). These are
@@ -87,7 +95,7 @@ This public presentation does not grant an open-source licence to the product.
 Before operational use, evaluate the eventual release against representative
 sources and your organization's requirements.
 
-Future downloads will identify the signed installer and its checksum. Verify
+The release identifies the signed installer and its checksum. Verify
 the final artifact before installation. Signing establishes publisher identity
 and integrity when verified; it does not guarantee the absence of vulnerabilities
 or Windows reputation warnings.
