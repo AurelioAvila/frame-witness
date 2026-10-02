@@ -63,6 +63,7 @@ product screenshots, customer evidence or measured recovery results.*
 | [Workflow and recovery limits](https://framewitness.pages.dev/#workflow) | Source preservation, search, examination and export. |
 | [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Planned offers; purchases are not open. |
 | [Account and licences](https://framewitness.pages.dev/account.html) | Email-code sign-in and the licence portal. |
+| [Create an account](https://framewitness.pages.dev/#register) | Register or sign in on the homepage; no payment is collected. |
 | [Frequently asked questions](https://framewitness.pages.dev/#questions) | Deleted files, earlier formats, Tor clues, dates and device scope. |
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
@@ -74,9 +75,12 @@ product screenshots, customer evidence or measured recovery results.*
 
 **Public downloads and purchases are not open.** This repository is the
 designated distribution channel for future publisher-signed installers and
-their SHA-256 checksums. Email-code access to the account portal is available;
-the website offers a public workflow-feedback discussion, not evaluation enrollment. Planned prices are
-not live offers.
+their SHA-256 checksums. Email-code registration and account access are available
+on the homepage. Evaluation enrollment and purchases remain closed. Planned
+launch prices are €472 for Professional, €1,160.70 for Lab and €1,802.30 for
+Organization (20%, 27% and 33% below their planned standard prices). These are
+not active checkouts or prices from previous sales. See the website for scope,
+optional renewals and pending final terms.
 
 The application source is maintained separately in a private repository.
 This public presentation does not grant an open-source licence to the product.
