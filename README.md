@@ -2,7 +2,7 @@
   <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. Illustrative laboratory cover; project preview.">
 </a>
 
-# Frame Witness Forensics
+# Frame Witness
 
 **Photo and video recovery for Windows. Visual review with source context.**
 
@@ -64,7 +64,7 @@ product screenshots, customer evidence or measured recovery results.*
 | [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Planned offers; purchases are not open. |
 | [Account and licences](https://framewitness.pages.dev/account.html) | Email-code sign-in and the licence portal. |
 | [Frequently asked questions](https://framewitness.pages.dev/#questions) | Deleted files, earlier formats, Tor clues, dates and device scope. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness-releases/releases) | Future signed installers and checksums; no release is published yet. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Future signed installers and checksums; no release is published yet. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Current product and commercial status. |
 
 ## Release status
