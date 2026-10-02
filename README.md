@@ -75,7 +75,7 @@ product screenshots, customer evidence or measured recovery results.*
 **Public downloads and purchases are not open.** This repository is the
 designated distribution channel for future publisher-signed installers and
 their SHA-256 checksums. Email-code access to the account portal is available;
-the homepage evaluation-registration form is not active. Planned prices are
+the website offers a public workflow-feedback discussion, not evaluation enrollment. Planned prices are
 not live offers.
 
 The application source is maintained separately in a private repository.
