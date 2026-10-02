@@ -76,7 +76,7 @@ product screenshots, customer evidence or measured recovery results.*
 **Public downloads and purchases are not open.** This repository is the
 designated distribution channel for future publisher-signed installers and
 their SHA-256 checksums. Free email/password registration and account access are available
-on the homepage and account page, without a plan, invitation or payment. Email confirmation remains required. Profile settings, password recovery, owned orders and support requests are included. Evaluation enrollment and purchases remain closed. Planned
+on the homepage and account page, without a plan, invitation or payment. Registration requires first and last name and activation through the link sent to the supplied email. Profile settings, password recovery, owned orders and support requests are included. Evaluation enrollment and purchases remain closed. Planned
 launch prices are €472 for Professional, €1,160.70 for Lab and €1,802.30 for
 Organization (20%, 27% and 33% below their planned standard prices). These are
 not active checkouts or prices from previous sales. See the website for scope,
