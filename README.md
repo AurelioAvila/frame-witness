@@ -61,34 +61,34 @@ product screenshots, customer evidence or measured recovery results.*
 | [Official website](https://framewitness.pages.dev) | Product overview and current availability. |
 | [Features and illustrative demo](https://framewitness.pages.dev/#product) | Visual review, source context and local examination. |
 | [Workflow and recovery limits](https://framewitness.pages.dev/#workflow) | Source preservation, search, examination and export. |
-| [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Planned offers; purchases are not open. |
+| [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Professional, Lab and Organization licences, with launch prices until 17 October 2026. |
 | [Account and licences](https://framewitness.pages.dev/account.html) | Email/password sign-in, credential management, orders, licences and private product support. |
-| [Create an account](https://framewitness.pages.dev/#register) | Register or sign in on the homepage; no payment is collected. |
+| [Create an account](https://framewitness.pages.dev/#register) | Register or sign in on the homepage; registration is free. |
 | [Frequently asked questions](https://framewitness.pages.dev/#questions) | Deleted files, earlier formats, Tor clues, dates and device scope. |
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows preview and SHA-256 checksum. Recovery requires a valid licence; checkout is not open yet. |
-| [Legal information](https://framewitness.pages.dev/legal.html) | Current product and commercial status. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free; saving recovered files requires a licence. |
+| [Legal information](https://framewitness.pages.dev/legal.html) | Seller information, account data and the [terms of sale and licence](https://framewitness.pages.dev/terms). |
 
 ## Release status
 
-**Version 0.31.0 is available as a signed Windows preview. Paid checkout is not open.**
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.31.0/FrameWitness-Setup-0.31.0.exe)
-(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.31.0).
-The application requires a valid licence for recovery features. Registration alone does not issue one.
+**Version 0.31.1 is available as a signed Windows release.**
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.31.1/FrameWitness-Setup-0.31.1.exe)
+(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.31.1).
+Scans and previews are free. Saving recovered files and the advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `9163e0146e468a5203be99166127733cc4b6272bdc7fd7328e922b7be750e807`.
+SHA-256: `a4cb2689283efe659c05a028b1956dabfec349dab1b7d1fddfcfa3fdf4042526`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
-Local synthetic recovery, preview, playback, isolation and missing-licence checks passed.
-Clean Windows and real paid-transaction tests were waived by the owner, **not passed**.
- Free email/password registration and account access are available
-on the homepage and account page, without a plan, invitation or payment. Registration requires first and last name and activation through the link sent to the supplied email. Profile settings, password recovery, owned orders and support requests are included. Evaluation enrollment and purchases remain closed. Planned
-launch prices are €472 for Professional, €1,160.70 for Lab and €1,802.30 for
-Organization (20%, 27% and 33% below their planned standard prices). These are
-not active checkouts or prices from previous sales. See the website for scope,
-optional renewals and pending final terms.
+Local synthetic recovery, preview, playback, isolation and licence checks passed.
+A clean Windows installation test was not performed.
+
+Licences are sold from the account area. Launch prices until 17 October 2026 are
+€472 for Professional (1 workstation), €1,160.70 for Lab (3) and €1,802.30 for
+Organization (5), each a perpetual licence with 12 months of updates. Licences are
+delivered immediately and are not refundable; see the
+[terms of sale and licence](https://framewitness.pages.dev/terms).
 
 The application source is maintained separately in a private repository.
 This public presentation does not grant an open-source licence to the product.
