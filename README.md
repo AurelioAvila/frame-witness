@@ -73,12 +73,12 @@ product screenshots, customer evidence or measured recovery results.*
 
 ## Release status
 
-**Version 0.31.1 is available as a signed Windows release.**
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.31.1/FrameWitness-Setup-0.31.1.exe)
-(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.31.1).
+**Version 0.32.0 is available as a signed Windows release, with an English interface.**
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.32.0/FrameWitness-Setup-0.32.0.exe)
+(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.32.0).
 Scans and previews are free. Saving recovered files and the advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `a4cb2689283efe659c05a028b1956dabfec349dab1b7d1fddfcfa3fdf4042526`.
+SHA-256: `065324b0c49bb4d165c72169f3a508fc9648f1b71bdde360a0282f8ac28a384e`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
