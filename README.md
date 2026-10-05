@@ -1,5 +1,5 @@
 <a href="https://framewitness.pages.dev">
-  <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. Illustrative laboratory cover; project preview.">
+  <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. Illustrative laboratory cover; not an application screenshot.">
 </a>
 
 # Frame Witness
@@ -10,7 +10,7 @@ Examine recoverable media on physical SSDs, hard drives and supported disk image
 Move from a file candidate to a visual review, then inspect its source offsets,
 SHA-256 hash and available dates without leaving the examination workflow.
 
-**Pre-release** · Windows desktop · Local media analysis · Proprietary software
+**Windows release available** · Windows desktop · Local media analysis · Proprietary software
 
 [Explore the product](https://framewitness.pages.dev/#product) ·
 [Examination workflow](#examination-workflow) ·
@@ -68,17 +68,17 @@ product screenshots, customer evidence or measured recovery results.*
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free; saving recovered files requires a licence. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 0.33.0 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Seller information, account data and the [terms of sale and licence](https://framewitness.pages.dev/terms). |
 
 ## Release status
 
-**Version 0.32.0 is available as a signed Windows release, with an English interface.**
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.32.0/FrameWitness-Setup-0.32.0.exe)
-(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.32.0).
-Scans and previews are free. Saving recovered files and the advanced tools require a licence; registration alone does not issue one.
+**Version 0.33.0 is available as a signed Windows release, with an English interface.**
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.33.0/FrameWitness-Setup-0.33.0.exe)
+(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.33.0).
+Scans and previews are free. Version 0.33.0 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `065324b0c49bb4d165c72169f3a508fc9648f1b71bdde360a0282f8ac28a384e`.
+SHA-256: `b5001c50182265ab06425b986c913095bcb1c783a84960097d46be71ef59d27c`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
@@ -92,7 +92,7 @@ delivered immediately and are not refundable; see the
 
 The application source is maintained separately in a private repository.
 This public presentation does not grant an open-source licence to the product.
-Before operational use, evaluate the eventual release against representative
+Before operational use, evaluate the current release against representative
 sources and your organization's requirements.
 
 The release identifies the signed installer and its checksum. Verify
