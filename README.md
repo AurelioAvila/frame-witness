@@ -68,17 +68,17 @@ product screenshots, customer evidence or measured recovery results.*
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 0.33.0 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 1.0.8 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Seller information, account data and the [terms of sale and licence](https://framewitness.pages.dev/terms). |
 
 ## Release status
 
-**Version 0.33.0 is available as a signed Windows release, with an English interface.**
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v0.33.0/FrameWitness-Setup-0.33.0.exe)
-(81.9 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v0.33.0).
-Scans and previews are free. Version 0.33.0 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
+**Version 1.0.8 is available as a signed Windows release, with an English interface.**
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.8/FrameWitness-Setup-1.0.8.exe)
+(82.1 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.8).
+Scans and previews are free. Version 1.0.8 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `b5001c50182265ab06425b986c913095bcb1c783a84960097d46be71ef59d27c`.
+SHA-256: `3d775f0747b90d1d4a0be5398743efa4e64a0f79a3407ec7abbfefa83d804e53`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
