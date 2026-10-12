@@ -1,5 +1,5 @@
 <a href="https://framewitness.pages.dev">
-  <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. Illustrative laboratory cover; not an application screenshot.">
+  <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. AI-generated laboratory cover; not an application screenshot.">
 </a>
 
 # Frame Witness
@@ -36,10 +36,10 @@ original survived.
 | **Keep media local** | Examination runs on the Windows workstation. Scanner and decoder workers use AppContainer isolation. |
 
 <a href="https://framewitness.pages.dev/#examination-title">
-  <img src="assets/media-examination.webp" width="1280" alt="Illustrative examiner reviewing landscape video frames at a workstation; this is not an application screenshot or case evidence.">
+  <img src="assets/media-examination.webp" width="1280" alt="AI-generated examiner reviewing landscape video frames at a workstation; this is not an application screenshot or case evidence.">
 </a>
 
-*Cover and laboratory scene are AI-generated illustrations. They are not
+*Cover and laboratory scene are AI-generated images. They are not
 product screenshots, customer evidence or measured recovery results.*
 
 ## Examination workflow
@@ -59,7 +59,7 @@ product screenshots, customer evidence or measured recovery results.*
 | Destination | What you will find |
 | :--- | :--- |
 | [Official website](https://framewitness.pages.dev) | Product overview and current availability. |
-| [Features and illustrative demo](https://framewitness.pages.dev/#product) | Visual review, source context and local examination. |
+| [Features and synthetic demo](https://framewitness.pages.dev/#product) | Visual review, source context and local examination. |
 | [Workflow and recovery limits](https://framewitness.pages.dev/#workflow) | Source preservation, search, examination and export. |
 | [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Professional, Lab and Organization licences, with launch prices until 17 October 2026. |
 | [Account and licences](https://framewitness.pages.dev/account.html) | Email/password sign-in, credential management, orders, licences and private product support. |
@@ -68,21 +68,23 @@ product screenshots, customer evidence or measured recovery results.*
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 1.0.8 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 1.0.9 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Seller information, account data and the [terms of sale and licence](https://framewitness.pages.dev/terms). |
 
 ## Release status
 
-**Version 1.0.8 is available as a signed Windows release, with an English interface.**
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.8/FrameWitness-Setup-1.0.8.exe)
-(82.1 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.8).
-Scans and previews are free. Version 1.0.8 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
+**Version 1.0.9 is available as a signed Windows release, with an English interface.**
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.9/FrameWitness-Setup-1.0.9.exe)
+(82.1 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.9).
+Scans and previews are free. Version 1.0.9 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `3d775f0747b90d1d4a0be5398743efa4e64a0f79a3407ec7abbfefa83d804e53`.
+SHA-256: `11664c9b46cc8ac179d3c5ef1b5bb97876cda5185eb30741c704de1ccce9854d`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
-A clean Windows installation test was not performed.
+The signed installer was installed, started and uninstalled on a clean Windows 11
+virtual machine by a standard user. Windows 10 and physically failing hardware
+have not been tested yet.
 
 Licences are sold from the account area. Launch prices until 17 October 2026 are
 €472 for Professional (1 workstation), €1,160.70 for Lab (3) and €1,802.30 for
