@@ -61,7 +61,7 @@ product screenshots, customer evidence or measured recovery results.*
 | [Official website](https://framewitness.pages.dev) | Product overview and current availability. |
 | [Features and synthetic demo](https://framewitness.pages.dev/#product) | Visual review, source context and local examination. |
 | [Workflow and recovery limits](https://framewitness.pages.dev/#workflow) | Source preservation, search, examination and export. |
-| [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Professional, Lab and Organization licences, with launch prices until 17 October 2026. |
+| [Plans and indicative pricing](https://framewitness.pages.dev/#pricing) | Professional, Lab and Organization licences, with a Halloween offer until 6 November 2026. |
 | [Account and licences](https://framewitness.pages.dev/account.html) | Email/password sign-in, credential management, orders, licences and private product support. |
 | [Create an account](https://framewitness.pages.dev/#register) | Register or sign in on the homepage; registration is free. |
 | [Frequently asked questions](https://framewitness.pages.dev/#questions) | Deleted files, earlier formats, Tor clues, dates and device scope. |
@@ -86,11 +86,12 @@ The signed installer was installed, started and uninstalled on a clean Windows 1
 virtual machine by a standard user. Windows 10 and physically failing hardware
 have not been tested yet.
 
-Licences are sold from the account area. Launch prices until 17 October 2026 are
-€472 for Professional (1 workstation), €1,160.70 for Lab (3) and €1,802.30 for
-Organization (5), each a perpetual licence with 12 months of updates. Licences are
-delivered immediately and are not refundable; see the
-[terms of sale and licence](https://framewitness.pages.dev/terms).
+Licences are sold from the account area. Halloween offer, until 6 November 2026,
+23:59 Rome time: €235 for Professional (1 workstation), €580 for Lab (3) and
+€900 for Organization (5), about 50% below the lowest price applied in the 30 days
+before the offer began (€472, €1,160.70 and €1,802.30). Each is a perpetual licence
+with 12 months of updates. Licences are delivered immediately and are not
+refundable; see the [terms of sale and licence](https://framewitness.pages.dev/terms).
 
 The application source is maintained separately in a private repository.
 This public presentation does not grant an open-source licence to the product.
