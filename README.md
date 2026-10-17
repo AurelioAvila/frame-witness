@@ -1,8 +1,8 @@
 <a href="https://framewitness.pages.dev">
-  <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. AI-generated laboratory cover; not an application screenshot.">
+  <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. Illustrative laboratory scene; not an application screenshot.">
 </a>
 
-# Frame Witness
+# Frame Witness Forensics — Windows Photo and Video Recovery
 
 **Photo and video recovery for Windows. Visual review with source context.**
 
@@ -36,10 +36,10 @@ original survived.
 | **Keep media local** | Examination runs on the Windows workstation. Scanner and decoder workers use AppContainer isolation. |
 
 <a href="https://framewitness.pages.dev/#examination-title">
-  <img src="assets/media-examination.webp" width="1280" alt="AI-generated examiner reviewing landscape video frames at a workstation; this is not an application screenshot or case evidence.">
+  <img src="assets/media-examination.webp" width="1280" alt="Illustration of an examiner reviewing landscape video frames at a workstation; this is not an application screenshot or case evidence.">
 </a>
 
-*Cover and laboratory scene are AI-generated images. They are not
+*The cover and laboratory scene are illustrations. They are not
 product screenshots, customer evidence or measured recovery results.*
 
 ## Examination workflow
