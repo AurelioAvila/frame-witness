@@ -1,8 +1,14 @@
+# Frame Witness Forensics — Windows Photo and Video Recovery
+
+For Windows users examining recoverable photos and videos. Move from a supported disk or image to media candidates with source offsets, SHA-256 hashes and available dates; a preview alone does not prove complete recovery.
+
+[Product](https://framewitness.pages.dev/#product) · [Official Windows downloads](https://github.com/AurelioAvila/frame-witness/releases/latest) · [Verify the publisher signature](https://github.com/AurelioAvila/.github/blob/master/CODE_SIGNING.md)
+
+**Example workflow:** open a supported disk image → review a photo/video candidate → inspect its source offset and SHA-256 record → export recovered media to a different physical destination. Missing dates remain unknown, and a playable preview does not establish that the original file is complete.
+
 <a href="https://framewitness.pages.dev">
   <img src="assets/frame-witness-cover.jpg" width="1280" alt="Frame Witness Forensics — photo and video examination for Windows. Illustrative laboratory scene; not an application screenshot.">
 </a>
-
-# Frame Witness Forensics — Windows Photo and Video Recovery
 
 **Photo and video recovery for Windows. Visual review with source context.**
 
