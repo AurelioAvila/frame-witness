@@ -41,12 +41,26 @@ original survived.
 | **Assess recovery quality** | Structural recognition, a decoded frame and complete-file verification remain separate checks. |
 | **Keep media local** | Examination runs on the Windows workstation. Scanner and decoder workers use AppContainer isolation. |
 
-<a href="https://framewitness.pages.dev/#examination-title">
-  <img src="assets/media-examination.webp" width="1280" alt="Illustration of an examiner reviewing landscape video frames at a workstation; this is not an application screenshot or case evidence.">
-</a>
+## Inside the Windows workspace
 
-*The cover and laboratory scene are illustrations. They are not
-product screenshots, customer evidence or measured recovery results.*
+<img src="assets/app-workspace.webp" width="1280" alt="Frame Witness Windows workspace examining a synthetic SD-card image, with candidate offsets and a generated test clip.">
+
+*Application screenshot from the existing product demonstration, using generated test media. The six candidates and the clip are synthetic examples; they are not customer files or a recovery-rate benchmark. This is not a new native-release validation.*
+
+<details>
+<summary>Inspect source details and the gallery</summary>
+
+<img src="assets/app-details.webp" width="498" alt="Source details for a synthetic MP4 candidate, including its SHA-256 hash, offset and an explicit statement that completeness is not established.">
+
+The details keep the source offset and SHA-256 record beside the limits of the examination. A recognized structure and a playable preview do not establish that the original file is complete. Missing dates remain unavailable.
+
+<img src="assets/app-gallery.webp" width="1000" alt="Frame Witness gallery containing six generated photo and video test candidates.">
+
+The gallery supports visual triage. These generated test cards show the interface; they do not demonstrate recovery from a failing disk, a real phone or overwritten data.
+
+</details>
+
+[Image provenance and verification limits](docs/SCREENSHOTS.md). The cover above remains an illustration.
 
 ## Examination workflow
 
