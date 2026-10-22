@@ -88,22 +88,22 @@ The gallery supports visual triage. These generated test cards show the interfac
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 1.0.10 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. Scans and previews are free. Version 1.0.11 also saves recovered files up to 1 MB per file without a licence; larger files and advanced tools require a licence. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Seller information, account data and the [terms of sale and licence](https://framewitness.pages.dev/terms). |
 
 ## Release status
 
-**Version 1.0.10 is available as a signed Windows release.** The app starts in English; German, Spanish, French, Italian and European Portuguese can be chosen in Settings. It installs for all users in Program Files, so installing asks for administrator approval.
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.10/FrameWitness-Setup-1.0.10.exe)
-(82.6 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.10). Coming from 1.0.9, run this installer: the update inside 1.0.9 cannot install it.
-Scans and previews are free. Version 1.0.10 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
+**Version 1.0.11 is available as a signed Windows release.** A scan can keep running in the background with the window closed, and a notification says when it ends. The app starts in English; German, Spanish, French, Italian and European Portuguese can be chosen in Settings. It installs for all users in Program Files, so installing asks for administrator approval.
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.11/FrameWitness-Setup-1.0.11.exe)
+(82.7 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.11). Coming from 1.0.9, run this installer: the update inside 1.0.9 cannot install it.
+Scans and previews are free. Version 1.0.11 also saves recovered files up to 1 MB per file without a licence. Larger files and advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `11664c9b46cc8ac179d3c5ef1b5bb97876cda5185eb30741c704de1ccce9854d`.
+SHA-256: `a7c1e843e67c5fdb0796347bd4edfa50492b014eaf1a4649f58aa015ddba45cd`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
-The signed installer was installed, started and uninstalled on a clean Windows 11
-virtual machine by a standard user. Windows 10 and physically failing hardware
+The 1.0.10 installer, built the same way, was installed, started and uninstalled on a clean
+Windows 11 virtual machine by a standard user. Windows 10 and physically failing hardware
 have not been tested yet.
 
 Licences are sold from the account area. Halloween offer, until 6 November 2026,
