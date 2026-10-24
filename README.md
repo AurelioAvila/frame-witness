@@ -145,3 +145,12 @@ disk-image examination · Windows storage analysis · visual triage · verificat
 
 [Visit Frame Witness](https://framewitness.pages.dev) ·
 [Copyright and third-party rights](COPYRIGHT.txt)
+
+## More tools by Aurelio Avila
+
+- [PC Tweaker](https://pctweaker.app/): Windows tuning for performance, gaming and privacy, with hardware monitoring and restore tools for supported settings.
+- [PC Tweaker Uninstaller](https://pctweaker.app/uninstaller/): Windows uninstaller with evidence-based removal scores, rollback snapshots and a local removal ledger.
+- [Tweaky Driver](https://pctweaker.app/tweaky-driver/): Windows driver inventory and update review, showing detected devices, installed versions and available driver offers.
+- [Redaxa](https://redaxa.getcertsprint.com/): Sensitive-data checks and redaction for AI prompts, plus local repository secret reviews on Windows.
+- [Redexa Social](https://redexa.getcertsprint.com/): Private YouTube analytics for Windows, kept in a database on your PC.
+- [Glarion](https://glarion.app/): Verified website security checks and white-label reports for digital agencies.
