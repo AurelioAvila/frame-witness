@@ -88,17 +88,17 @@ The gallery supports visual triage. These generated test cards show the interfac
 | [Deleted video recovery](https://framewitness.pages.dev/video-recovery) | Surviving records, RAW carving, SSD limits and a reporting checklist. |
 | [Tor video traces](https://framewitness.pages.dev/tor-video-traces) | Acquired artifacts and the limits of browser attribution. |
 | [Examiner workflow discussion](https://github.com/AurelioAvila/frame-witness/discussions/1) | Share requirements and synthetic examples; no case evidence or sensitive data. |
-| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. A free account includes the quick scan, previews and saving recovered files up to 1 MB per file. Version 1.0.14 adds a 3-day free trial of everything, once per person and per computer; after it, larger files and advanced tools require a licence. |
+| [Release channel](https://github.com/AurelioAvila/frame-witness/releases) | Publisher-signed Windows releases with SHA-256 checksums. A free account includes the quick scan, previews and saving recovered files up to 1 MB per file. Since version 1.0.14 there is a 3-day free trial of everything, once per person and per computer; after it, larger files and advanced tools require a licence. |
 | [Legal information](https://framewitness.pages.dev/legal.html) | Seller information, account data and the [terms of sale and licence](https://framewitness.pages.dev/terms). |
 
 ## Release status
 
-**Version 1.0.14 is available as a signed Windows release.** It adds a free trial: three days of everything (full and deep scans, every result, saving files of any size and all the advanced tools), once per person and per computer, with no payment details, started from the account area. The free quick scan now also counts the results it does not show. An update leaves one installation, Windows itself checks the signature of an update inside the app, and a scan can keep running in the background with the window closed. The app starts in English; German, Spanish, French, Italian and European Portuguese can be chosen in Settings. It installs for all users in Program Files, so installing asks for administrator approval.
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.14/FrameWitness-Setup-1.0.14.exe)
-(82.7 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.14). Coming from 1.0.9, run this installer: the update inside 1.0.9 cannot install it.
+**Version 1.0.15 is available as a signed Windows release.** It brings clearer, more accurate translations in every language: German, Spanish, French, Italian and European Portuguese were reviewed in full against the English interface. Since 1.0.14 there is a free trial: three days of everything (full and deep scans, every result, saving files of any size and all the advanced tools), once per person and per computer, with no payment details, started from the account area. The free quick scan now also counts the results it does not show. An update leaves one installation, Windows itself checks the signature of an update inside the app, and a scan can keep running in the background with the window closed. The app starts in English; German, Spanish, French, Italian and European Portuguese can be chosen in Settings. It installs for all users in Program Files, so installing asks for administrator approval.
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.15/FrameWitness-Setup-1.0.15.exe)
+(82.7 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.15). Coming from 1.0.9, run this installer: the update inside 1.0.9 cannot install it.
 A free account includes the quick scan of the first 8 GB (the first 100 results shown, the rest counted), previews and saving recovered files up to 1 MB per file. After the trial, larger files and advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `fa22d6c7f97da0b4e5efa889e5abb9e4d98815a9b76ac0087424944b21bad6c2`.
+SHA-256: `438ff59352c257b96a35192b561294b0a5a4844dbb4da17be50b493c3f967a6c`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
