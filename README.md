@@ -93,12 +93,12 @@ The gallery supports visual triage. These generated test cards show the interfac
 
 ## Release status
 
-**Version 1.0.15 is available as a signed Windows release.** It brings clearer, more accurate translations in every language: German, Spanish, French, Italian and European Portuguese were reviewed in full against the English interface. Since 1.0.14 there is a free trial: three days of everything (full and deep scans, every result, saving files of any size and all the advanced tools), once per person and per computer, with no payment details, started from the account area. The free quick scan now also counts the results it does not show. An update leaves one installation, Windows itself checks the signature of an update inside the app, and a scan can keep running in the background with the window closed. The app starts in English; German, Spanish, French, Italian and European Portuguese can be chosen in Settings. It installs for all users in Program Files, so installing asks for administrator approval.
-[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.0.15/FrameWitness-Setup-1.0.15.exe)
-(82.7 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.0.15). Coming from 1.0.9, run this installer: the update inside 1.0.9 cannot install it.
+**Version 1.1.0 is available as a signed Windows release.** The window now opens at a size that fits your screen and remembers where you left it, every screen fits down to 820 x 600, a Licence panel shows your plan, activations and update period, and Settings open in their own window so the results table keeps its height. Drop-down lists and title bars are dark like the rest of the app. Since 1.0.14 there is a free trial: three days of everything (full and deep scans, every result, saving files of any size and all the advanced tools), once per person and per computer, with no payment details, started from the account area. The free quick scan now also counts the results it does not show. An update leaves one installation, Windows itself checks the signature of an update inside the app, and a scan can keep running in the background with the window closed. The app starts in English; German, Spanish, French, Italian and European Portuguese can be chosen in Settings. It installs for all users in Program Files, so installing asks for administrator approval.
+[Download the signed installer](https://github.com/AurelioAvila/frame-witness/releases/download/v1.1.0/FrameWitness-Setup-1.1.0.exe)
+(82.7 MiB) and [read the release notes](https://github.com/AurelioAvila/frame-witness/releases/tag/v1.1.0). Coming from 1.0.9, run this installer: the update inside 1.0.9 cannot install it.
 A free account includes the quick scan of the first 8 GB (the first 100 results shown, the rest counted), previews and saving recovered files up to 1 MB per file. After the trial, larger files and advanced tools require a licence; registration alone does not issue one.
 
-SHA-256: `438ff59352c257b96a35192b561294b0a5a4844dbb4da17be50b493c3f967a6c`.
+SHA-256: `9d605b615c7481037d3959e8b753209dc988f84dfdeccc74e0a464fb8549ad2b`.
 Publisher: Aurelio Avila. Trusted timestamp: Certum.
 
 Local synthetic recovery, preview, playback, isolation and licence checks passed.
